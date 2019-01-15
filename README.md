@@ -12,13 +12,13 @@ $ yarn develop
 ```
 
 ## TODO
-[x] Landing page
-[ ] A page to display all published posts with pagination
-[x] A page to display a single post
-[ ] Project page to show project details, images, link to demo/buy/download.
-[ ] About page with contact information
-[ ] Adding an `.env` file to set the wordpress/medium urls where the data will come from.
-[ ] Portfolio section in landing page
+- [x] Landing page
+- [ ] A page to display all published posts with pagination
+- [x] A page to display a single post
+- [ ] Project page to show project details, images, link to demo/buy/download.
+- [ ] About page with contact information
+- [ ] Adding an `.env` file to set the wordpress/medium urls where the data will come from.
+- [ ] Portfolio section in landing page
 
 ## Resources
 * [Gatsby documentation](https://www.gatsbyjs.org/docs/)
